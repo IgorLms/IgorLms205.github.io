@@ -1,0 +1,96 @@
+body {
+    font-size: 17px;
+}
+.nav {
+    display: flex;
+    background-color: #222222;
+}
+.n {
+    list-style: none;
+    display: flex;
+    margin-left: 45px;
+    margin-top: 80px;
+    color: white;
+}
+.l {
+    margin-left: 30px;
+    color: white;
+}
+.imglogo {
+    margin-left: 160px;
+    margin-top: 55px;
+}
+.imgmail {
+    margin-top: 80px;
+    margin-left: 700px;
+}
+.imgphone {
+    margin-top: 80px;
+    margin-left: 25px;
+}
+.title {
+    display: flex;
+    background-color: #222222;
+    
+}
+.zag {
+    margin-left: 330px;
+    width: 270px;
+    height: 320px;
+    margin-top: 90px;
+    color: white;
+}
+.imgmoon {
+    margin-left: 235px;
+    margin-top: 20px;
+}
+button {
+    background-color: #feca30;
+    border-radius: 100px;
+    width: 240px;
+    height: 50px;
+}
+.imgarrow {
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.navi {
+    display: flex;
+    justify-content: space-around;
+    background-color: #222222;
+    color: white;
+}
+.icon {
+    width: 180px;
+    height: 160px;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.map {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.rec {
+    width: 440px;
+}
+.map1 {
+display: flex;
+justify-content: space-around;
+margin-bottom: 75px;
+margin-top: 75px;
+}
+.sps {
+width: 440px;
+}
+ul {
+    padding: 0px;
+    margin-left: 15px;
+    
+}
+li {
+    color: yellow;
+}
+span {
+    color: black;
+}
